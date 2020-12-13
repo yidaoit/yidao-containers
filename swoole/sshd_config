@@ -1,0 +1,6 @@
+PermitRootLogin yes
+Subsystem sftp internal-sftp
+X11Forwarding no
+AllowTcpForwarding yes
+UseDNS no
+Port 20022
